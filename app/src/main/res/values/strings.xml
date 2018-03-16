@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">NafplioTourGuide</string>
+
+    <string name="CultureTab">Cultural Places</string>
+    <string name="FoodTab">Restaurants</string>
+    <string name="HotelsTab">Accommodation</string>
+    <string name="BeachTab">Beaches</string>
+    <string name="arch_museum">Archaeological Museum</string>
+    <string name="arch_description">It was first built in 1713, during the second reign of the Venetians and
+        is accommodated in the imposing in size as well as strict in symmetry, stone-built Venetian structure.
+        Syntagmatos Square, P.C:21100, Nafplio Τel.Number: 27520 27502</string>
+    <string name="war_museum">War Museum</string>
+    <string name="war_description">Located in the area where the first Army Cadet School were, the War Museum
+        was inaugurated at the end of 1988.The Museum is a directive of the history of the Army Cadet School.
+        Amalias 22, P.C 21100, Nafplio city. Tel. Number: 27520 25591 </string>
+    <string name="fol_museum">Folklore Museum</string>
+    <string name="fol_description">The Peloponnesian Folklore Foundation of public benefit was established back
+        in 1974. Its primary aim is the research, study and conservation of the Hellenic cultural activity.
+        King Alexander 1, St, Nafplio, P.C:21100 Tel. Number: 27520 28947</string>
+    <string name="palamidi">Palamidi</string>
+    <string name="pal_description">The fort of the Palamidi, which has been preserved in excellent condition,
+        is one of the greatest achievements of Venetian fortification architecture.</string>
+    <string name="bourtzi">Bourtzi</string>
+    <string name="bourtzi_description">The fort on the sea, which has remained known by its Turkish name Bourtzi,
+        meaning tower, has become Nafplion\'s trademark.This small island is in the middle of the city's harbour.</string>
+    <string name="synd_square">Syndagma Square</string>
+    <string name="synd_description">Syndagma Square, the most historic square in Nauplion, comprises the centre
+        of the city.The square was once home to the residences of many of the great fighters of the Greek revolution,
+        such as Nikitaras and Theodoros Kolokotronis.</string>
+    <string name="Kapod_square">Kapodistria Square</string>
+    <string name="kapod_description">This square takes its name from the figure who above all others is synonymous with
+        the history of the city: Ioannis Kapodistrias, the first governor of the modern Greek state.</string>
+    <string name="arapakos">Arapakos</string>
+    <string name="arap_description">Since 1978 , our menu includes greek cuisine, fresh fish, sea food, meat grilled or roasted and pasta dishes
+         Port of Nafplio : 81 Bouboulina St.
+         Tel: 27520 27675  </string>
+    <string name="carr_pizza">Carrera\'s Pizza</string>
+    <string name="carr_description">Traditional Italian cuisine. The pizza baked in wood oven.
+         Sidiras Merarhias 9 and Polizoidou, Nafplio 211 00
+         Tel: 2752 024985 </string>
+    <string name="fougaro">FOUGARO Café</string>
+    <string name="foug_description">Asklipiou 98, Nafplio 21100
+        Tel: +30 27520.47347 </string>
+    <string name="gyrokomeio">Gyrokomeio</string>
+    <string name="gyr_description">We are located in Nafplio, Argolida in a modern decorated and clean place offering traditional flavors from fresh ingredients and selected meats.
+         11, Sidiras Merarchias and Polizoidi - Nafplio
+         Tel: +30 2752023600</string>
+    <string name="acronafplia">Acronafplia Pension</string>
+    <string name="acr_description">This property is 3 minutes walk from the beach.
+         Efthimiopoulou 14, Nafplio, 21100, Greece
+         Tel: +30 27525 00042</string>
+    <string name="amalia">Amalia Nafplio</string>
+    <string name="ama_description">On the outskirts of historic Nafplio, this neoclassical building offers luxurious rooms.
+         Argous Street, Nafplio, 21100, Greece
+         Tel: +30 2752 024 400</string>
+    <string name="nafsimedon">Nafsimedon Hotel</string>
+    <string name="nafs_description">This property is 6 minutes walk from the beach. Set in a mid-19th-century neoclassical house right opposite Kapodistrias Square.
+          9 Sidiras Merarhias Str., Nafplio, 21100, Greece
+          Tel: +30 27520-25060</string>
+    <string name="klymeni">Klymeni Guesthouse</string>
+    <string name="klym_description">The stone-built apartments are just 1 km from Palamidi and 1.5 km from Karathonas beach, on the outskirts of Nafplion.
+          Eparchiaki Odos Nafpliou-Frouriou Palamidiou, Nafplio, 21100, Greece
+          Tel: +302752096194</string>
+    <string name="ancient_assini">Ancient Assini Beach</string>
+    <string name="anc_description">Pebbled. Rocky on its edges. Small sized beach, seabed rocky-pebbled.</string>
+    <string name="arvanitia">Arvanitia Beach</string>
+    <string name="arv_description">Pebbled on its center. Rocky on its edges, access through small metallic ladders. Middle sized beach, sandy and small pebbled.
+          Sea bottom: Sandy.</string>
+    <string name="karathona">Karathona Beach</string>
+    <string name="kar_description">Sandy throughout, sea bottom sandy as well. Large scale beach, shallow waters, proper for children and families.</string>
+    <string name="kondyli">Kondyli Beach</string>
+    <string name="kon_description">Thin and large pebbles, sand. Quite large as a beach. Its seabed is for the most part rocky and at some points on the left it is sandy as well.
+          Quite deep, with a steep incline.</string>
+    <string name="plaka">Plaka Beach</string>
+    <string name="pla_description">Small and large pebbled. Quite large as a beach, interchanging. Seabed mainly sandy with some big plaques.</string>
+</resources>

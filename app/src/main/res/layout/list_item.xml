@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/list_item_height"
+    android:minHeight="@dimen/list_item_height">
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="@dimen/list_item_width"
+        android:layout_height="@dimen/list_item_width" />
+
+    <RelativeLayout
+        android:id="@+id/text_container"
+        style="@style/RelativeLayout"
+        android:layout_toRightOf="@id/image"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/place_name_text_view"
+            style="@style/TextView"
+            android:textAppearance="?android:textAppearanceMedium"
+            tools:text="place name" />
+
+        <TextView
+            android:id="@+id/description_text_view"
+            style="@style/TextView2"
+            android:layout_below="@id/place_name_text_view"
+            android:textAppearance="?android:textAppearanceSmall"
+            tools:text="description" />
+    </RelativeLayout>
+
+</RelativeLayout>
